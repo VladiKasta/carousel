@@ -1,3 +1,3 @@
 Another test task...
 
-My own wwrutten horizontal scroll, it is far from perfect
+My own written horizontal scroll, it is far from perfect
